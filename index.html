@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LIVE A HERO! スキル＆キャラ検索データベース</title>
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Outfit:wght@600;800&display=swap" rel="stylesheet">
+  
+  <!-- 外部CSSスタイルシート -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- ==========================================================================
+       ヘッダー
+       ========================================================================== -->
+  <header>
+    <div class="header-container">
+      <div class="logo-group">
+        <span class="logo-badge">LAH DB</span>
+        <h1>スキル＆キャラ検索</h1>
+      </div>
+
+      <!-- カテゴリー切替タブ -->
+      <div class="category-tabs" id="categoryTabs">
+        <button class="tab-btn active" data-category="all">
+          すべて <span class="tab-badge" id="countAll">0</span>
+        </button>
+        <button class="tab-btn" data-category="hero">
+          ヒーロー <span class="tab-badge" id="countHero">0</span>
+        </button>
+        <button class="tab-btn" data-category="sidekick">
+          サイドキック <span class="tab-badge" id="countSidekick">0</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ==========================================================================
+       メインコンテンツ
+       ========================================================================== -->
+  <main>
+    <!-- フィルタ・検索カード -->
+    <div class="filter-card">
+      <div class="search-row">
+        <!-- フリーワード検索 -->
+        <div class="search-input-wrapper">
+          <svg class="search-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+          </svg>
+          <input type="text" id="searchInput" class="search-input" placeholder="キャラ名、技名、所属事務所、CV、入手方法（ガチャ・配布等）で検索...">
+        </div>
+
+        <!-- ソート選択 -->
+        <div class="sort-wrapper">
+          <span class="sort-label">並び替え:</span>
+          <select id="sortSelect" class="select-control">
+            <option value="id">キャラID順 (実装順)</option>
+            <option value="attribute">属性順</option>
+            <option value="type">役割順</option>
+            <option value="name">名前 (五十音順)</option>
+          </select>
+          <button id="orderToggleBtn" class="order-toggle-btn" title="昇順/降順の切り替え">
+            <span id="orderIcon">▲</span> 昇順
+          </button>
+        </div>
+      </div>
+
+      <!-- 詳細絞り込み条件 -->
+      <div class="filter-section">
+        <!-- 属性フィルター -->
+        <div class="filter-group">
+          <span class="filter-title">属性:</span>
+          <div class="chip-group" id="attrFilterGroup">
+            <button class="chip-btn active" data-attr="all">すべて</button>
+            <button class="chip-btn" data-attr="火">火</button>
+            <button class="chip-btn" data-attr="水">水</button>
+            <button class="chip-btn" data-attr="木">木</button>
+            <button class="chip-btn" data-attr="光">光</button>
+            <button class="chip-btn" data-attr="影">影</button>
+          </div>
+        </div>
+
+        <!-- 役割フィルター -->
+        <div class="filter-group">
+          <span class="filter-title">役割:</span>
+          <div class="chip-group" id="typeFilterGroup">
+            <button class="chip-btn active" data-type="all">すべて</button>
+            <button class="chip-btn" data-type="攻撃">攻撃</button>
+            <button class="chip-btn" data-type="防御">防御</button>
+            <button class="chip-btn" data-type="回復">回復</button>
+            <button class="chip-btn" data-type="補助">補助</button>
+            <button class="chip-btn" data-type="弱体化">弱体化</button>
+            <button class="chip-btn" data-type="Spd操作">Spd操作</button>
+            <button class="chip-btn" data-type="View獲得">View獲得</button>
+            <button class="chip-btn" data-type="特殊">特殊</button>
+          </div>
+        </div>
+
+        <!-- 入手方法フィルター -->
+        <div class="filter-group">
+          <span class="filter-title">入手方法:</span>
+          <div class="chip-group" id="obtainFilterGroup">
+            <button class="chip-btn active" data-obtain="all">すべて</button>
+            <button class="chip-btn" data-obtain="配布">配布</button>
+            <button class="chip-btn" data-obtain="イベント配布">イベント配布</button>
+            <button class="chip-btn" data-obtain="イベント交換">イベント交換</button>
+            <button class="chip-btn" data-obtain="常設ガチャ">常設ガチャ</button>
+            <button class="chip-btn" data-obtain="限定ガチャ">限定ガチャ</button>
+          </div>
+        </div>
+
+        <!-- 効果タグ・キーワードフィルター (JavaScriptで全登録キャラのタグから自動動的生成) -->
+        <div class="filter-group">
+          <span class="filter-title">効果・タグ:</span>
+          <div style="display: flex; flex-direction: column; gap: 8px; flex: 1;">
+            <div class="chip-group" id="tagFilterGroup">
+              <!-- JSで登録キャラのタグを自動集計・描画します -->
+            </div>
+            <button id="toggleTagsBtn" class="clear-filters-btn" style="align-self: flex-start; display: none;">
+              ▼ タグをすべて表示
+            </button>
+          </div>
+          <button id="clearFiltersBtn" class="clear-filters-btn">条件をクリア</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- 検索結果ヘッダー & グリッド -->
+    <div class="results-header">
+      <div class="results-count">該当キャラクター: <span id="resultCount">0</span> 件</div>
+    </div>
+
+    <div class="card-grid" id="cardGrid">
+      <!-- JavaScriptによりカードが動的生成されます -->
+    </div>
+  </main>
+
+  <!-- ==========================================================================
+       キャラ詳細表示モーダル (戻るボタン付き)
+       ========================================================================== -->
+  <div class="modal-overlay" id="detailModal">
+    <div class="modal-card">
+      <!-- ナビゲーションバー (戻るボタン) -->
+      <div class="modal-nav-bar">
+        <button class="back-btn" id="modalBackBtn">
+          <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M10 19l-7-7m0 0l7-7m-7 7h18"/>
+          </svg>
+          一覧に戻る
+        </button>
+        <span class="modal-char-category" id="modalCategoryBadge">ヒーロー</span>
+      </div>
+
+      <!-- モーダル本文 -->
+      <div class="modal-body">
+        <div class="char-detail-header">
+          <div class="detail-icon-box" id="modalIconContainer">
+            <!-- アイコン画像またはプレースホルダー -->
+          </div>
+          <div class="detail-header-info">
+            <h2 class="detail-char-name" id="modalCharName">キャラクター名</h2>
+            <div class="detail-tags-row">
+              <span class="detail-badge attr-tag" id="modalAttrBadge">火</span>
+              <span class="detail-badge" id="modalTypeBadge">攻撃</span>
+              <span class="detail-badge" id="modalRankBadge" style="display: none; background-color: #fef3c7; color: #b45309;">ランク: 4</span>
+              <span class="detail-badge" id="modalIdBadge">ID: h001</span>
+            </div>
+            <div class="detail-tags-row" style="margin-top: 4px;">
+              <span class="detail-badge" id="modalOfficeBadge" style="background-color: #e0f2fe; color: #0369a1;">事務所: パラレルフライト</span>
+              <span class="detail-badge" id="modalCvBadge" style="background-color: #fce7f3; color: #be185d;">CV: 保坂俊行</span>
+              <span class="detail-badge" id="modalObtainBadge" style="background-color: #dcfce7; color: #15803d;">入手: 配布・常設ガチャ</span>
+            </div>
+            <p style="font-size: 0.88rem; color: var(--text-muted); margin-top: 4px;" id="modalCharSubtitle">タグ情報</p>
+          </div>
+        </div>
+
+        <!-- 基礎ステータス / 装備補正表示ボックス -->
+        <div id="heroStatsBox" style="background-color: var(--bg-subtle); padding: 12px 16px; border-radius: var(--radius-md); margin-bottom: 20px;">
+          <h4 style="font-size: 0.9rem; font-weight: 700; margin-bottom: 6px; color: var(--text-main);" id="statsBoxTitle">【基礎ステータス】</h4>
+          <div id="heroStatsContent" style="font-size: 0.88rem; display: flex; gap: 20px; flex-wrap: wrap; color: var(--text-main);">
+            <!-- JSで動的注入 -->
+          </div>
+        </div>
+
+        <!-- スキル一覧 -->
+        <div class="skills-section">
+          <h3 class="section-title">
+            <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+            </svg>
+            所持スキル・技一覧
+          </h3>
+
+          <div id="skillsListContainer">
+            <!-- スキルカードがJSで生成されます -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ==========================================================================
+       用語・状態変化 解説ポップアップモーダル
+       ========================================================================== -->
+  <div class="modal-overlay" id="effectModal" style="z-index: 1100;">
+    <div class="modal-card" style="max-width: 480px; margin-top: 100px;">
+      <div class="modal-nav-bar" style="background-color: var(--primary-light); justify-content: space-between; align-items: center;">
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <button class="back-btn" id="effectModalBackBtn" style="padding: 4px 10px; font-size: 0.82rem; display: none; background-color: var(--bg-surface); border: 1px solid var(--border-color);">◀ 戻る</button>
+          <span style="font-weight: 800; color: var(--primary-color); font-size: 1.05rem;" id="effectModalTitle">【用語解説】</span>
+        </div>
+        <button class="back-btn" id="effectModalCloseBtn" style="padding: 4px 12px; font-size: 0.85rem;">閉じる ✕</button>
+      </div>
+      <div class="modal-body" style="padding: 20px;">
+        <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
+          <span id="effectModalCategory" style="font-size: 0.78rem; font-weight: 800; background-color: var(--primary-color); color: white; padding: 2px 8px; border-radius: var(--radius-sm);">区分</span>
+          <h3 id="effectModalName" style="font-size: 1.25rem; font-weight: 800; color: var(--text-main);">用語名</h3>
+        </div>
+        <p id="effectModalDesc" style="font-size: 0.95rem; color: var(--text-main); line-height: 1.6; background-color: var(--bg-primary); padding: 14px; border-radius: var(--radius-md); border: 1px solid var(--border-light); white-space: pre-line;">
+          説明文がここに表示されます。
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- 外部JavaScript読み込み -->
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
