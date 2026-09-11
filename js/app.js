@@ -283,14 +283,11 @@ function parseCustomInlineSyntax(text) {
       if (closeStar !== -1 && (text[closeStar + 1] === '{' || text[closeStar + 1] === '｛')) {
         const word = text.substring(i + 1, closeStar);
         const openBracePos = closeStar + 1;
-        const openChar = text[openBracePos];
-        const closeChar = openChar === '{' ? '}' : '｝';
-
         let depth = 1;
         let j = openBracePos + 1;
         while (j < text.length && depth > 0) {
-          if (text[j] === openChar) depth++;
-          else if (text[j] === closeChar) depth--;
+          if (text[j] === '{' || text[j] === '｛') depth++;
+          else if (text[j] === '}' || text[j] === '｝') depth--;
           j++;
         }
 

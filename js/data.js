@@ -6253,7 +6253,7 @@ window.CHARACTER_DATA = [
         "name": "シュレッディング・ビート",
         "vp": 0,
         "description": "敵単体に1ターンの間眩暈を付与。Viewを1000獲得。",
-        "passiveDescription": "生存時、味方はスキル発動前のViewに応じてATKが上昇。(最大+50%。View35000の時最大値に到達。)同種の効果とは重複しない。"
+        "passiveDescription": "生存時、味方はスキル発動前のViewに応じてATKが上昇。(VP700毎に1.01倍(ATK+1%)。最大+50%。View35000の時最大値に到達。)同種の効果とは重複しない。"
       },
       {
         "type": "スキル２",
