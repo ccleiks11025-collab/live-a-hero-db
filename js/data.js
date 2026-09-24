@@ -358,6 +358,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "保坂俊行",
     "obtain": "配布・常設ガチャ",
+    "iconUrl": "images/hero/idh001-1.png",
     "stats": {
       "HP": 7066,
       "ATK": 2185,
@@ -398,6 +399,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "保坂俊行",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh001-2.png",
     "stats": {
       "HP": 7129,
       "ATK": 2762,
@@ -441,6 +443,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "熊本健太",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh002-1.png",
     "stats": {
       "HP": 5054,
       "ATK": 2691,
@@ -480,6 +483,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "熊本健太",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh002-2.png",
     "stats": {
       "HP": 5219,
       "ATK": 1992,
@@ -522,6 +526,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "伊瀬栞莉也",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh003-1.png",
     "stats": {
       "HP": 6048,
       "ATK": 1698,
@@ -562,6 +567,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "中谷一博",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh004-1.png",
     "stats": {
       "HP": 4999,
       "ATK": 2196,
@@ -603,6 +609,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "中谷一博",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh004-2.png",
     "stats": {
       "HP": 5049,
       "ATK": 1710,
@@ -646,6 +653,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "山口眞弓",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh005-1.png",
     "stats": {
       "HP": 6089,
       "ATK": 2200,
@@ -688,6 +696,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "てらそままさき",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh006-1.png",
     "stats": {
       "HP": 5981,
       "ATK": 2209,
@@ -731,6 +740,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "てらそままさき",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh006-2.png",
     "stats": {
       "HP": 6909,
       "ATK": 2708,
@@ -773,6 +783,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "岩永悠平",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh007-1.png",
     "stats": {
       "HP": 4970,
       "ATK": 2735,
@@ -812,6 +823,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "岩永悠平",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh007-2.png",
     "stats": {
       "HP": 5802,
       "ATK": 2918,
@@ -853,6 +865,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "岩永悠平",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh007-3.png",
     "stats": {
       "HP": 4980,
       "ATK": 3278,
@@ -895,6 +908,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "よねざわたかし",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh008-1.png",
     "stats": {
       "HP": 7045,
       "ATK": 1664,
@@ -936,6 +950,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "よねざわたかし",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh008-2.png",
     "stats": {
       "HP": 6962,
       "ATK": 1213,
@@ -980,6 +995,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "尾形雅宏",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh009-1.png",
     "stats": {
       "HP": 3950,
       "ATK": 3226,
@@ -1021,6 +1037,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "尾形雅宏",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh009-2.png",
     "stats": {
       "HP": 5009,
       "ATK": 1698,
@@ -1064,6 +1081,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "よねざわたかし",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh010-1.png",
     "stats": {
       "HP": 5019,
       "ATK": 2716,
@@ -1101,6 +1119,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "よねざわたかし",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh010-2.png",
     "stats": {
       "HP": 5094,
       "ATK": 2753,
@@ -1143,6 +1162,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "戸板優衣",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh011-1.png",
     "stats": {
       "HP": 5009,
       "ATK": 1674,
@@ -1184,6 +1204,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック。エデュケーターズ",
     "cv": "戸板優衣",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh011-2.png",
     "stats": {
       "HP": 5994,
       "ATK": 2227,
@@ -1227,6 +1248,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "成田剣",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh012-1.png",
     "stats": {
       "HP": 6071,
       "ATK": 1705,
@@ -1272,6 +1294,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "成田剣",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh012-2.png",
     "stats": {
       "HP": 4895,
       "ATK": 2732,
@@ -1311,6 +1334,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "稲田徹",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh013-1.png",
     "stats": {
       "HP": 6011,
       "ATK": 2745,
@@ -1351,6 +1375,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "稲田徹",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh013-2.png",
     "stats": {
       "HP": 5084,
       "ATK": 2829,
@@ -1392,6 +1417,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "大友龍三郎",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh014-1.png",
     "stats": {
       "HP": 8194,
       "ATK": 2200,
@@ -1437,6 +1463,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "大友龍三郎",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh014-2.png",
     "stats": {
       "HP": 7259,
       "ATK": 1678,
@@ -1481,6 +1508,7 @@ window.CHARACTER_DATA = [
     "office": "ギャラクシー・アスリーツ",
     "cv": "三宅健太",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh015-1.png",
     "stats": {
       "HP": 6071,
       "ATK": 2194,
@@ -1522,6 +1550,7 @@ window.CHARACTER_DATA = [
     "office": "ギャラクシー・アスリーツ",
     "cv": "三宅健太",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh015-2.png",
     "stats": {
       "HP": 7633,
       "ATK": 2694,
@@ -1566,6 +1595,7 @@ window.CHARACTER_DATA = [
     "office": "ギャラクシー・アスリーツ",
     "cv": "幸田承",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh016-1.png",
     "stats": {
       "HP": 5901,
       "ATK": 2710,
@@ -1605,6 +1635,7 @@ window.CHARACTER_DATA = [
     "office": "ギャラクシー・アスリーツ",
     "cv": "幸田承",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh016-2.png",
     "stats": {
       "HP": 5009,
       "ATK": 2778,
@@ -1646,6 +1677,7 @@ window.CHARACTER_DATA = [
     "office": "ネオタレンツ・プロダクション",
     "cv": "小林由美子",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh017-1.png",
     "stats": {
       "HP": 5119,
       "ATK": 1717,
@@ -1689,6 +1721,7 @@ window.CHARACTER_DATA = [
     "office": "ネオタレンツ・プロダクション",
     "cv": "小林由美子",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh017-2.png",
     "stats": {
       "HP": 6239,
       "ATK": 2643,
@@ -1735,6 +1768,7 @@ window.CHARACTER_DATA = [
     "office": "ネオタレンツ・プロダクション",
     "cv": "夏怜",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh018-1.png",
     "stats": {
       "HP": 4990,
       "ATK": 2161,
@@ -1775,6 +1809,7 @@ window.CHARACTER_DATA = [
     "office": "ネオタレンツ・プロダクション",
     "cv": "夏怜",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh018-2.png",
     "stats": {
       "HP": 5054,
       "ATK": 1696,
@@ -1820,6 +1855,7 @@ window.CHARACTER_DATA = [
     "office": "M．A．H．A．",
     "cv": "笠間淳",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh019-1.png",
     "stats": {
       "HP": 5009,
       "ATK": 2203,
@@ -1863,6 +1899,7 @@ window.CHARACTER_DATA = [
     "office": "M．A．H．A．",
     "cv": "笠間淳",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh019-2.png",
     "stats": {
       "HP": 5009,
       "ATK": 1623,
@@ -1902,6 +1939,7 @@ window.CHARACTER_DATA = [
     "office": "M．A．H．A．",
     "cv": "大浪嘉仁",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh020-1.png",
     "stats": {
       "HP": 5054,
       "ATK": 1689,
@@ -1944,6 +1982,7 @@ window.CHARACTER_DATA = [
     "office": "M．A．H．A．",
     "cv": "大浪嘉仁",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh020-2.png",
     "stats": {
       "HP": 5034,
       "ATK": 2661,
@@ -1985,6 +2024,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "尾形雅宏",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh021-1.png",
     "stats": {
       "HP": 4980,
       "ATK": 2200,
@@ -2022,6 +2062,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "尾形雅宏",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh021-2.png",
     "stats": {
       "HP": 3922,
       "ATK": 2759,
@@ -2063,6 +2104,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "大浪嘉仁",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh022-1.png",
     "stats": {
       "HP": 7899,
       "ATK": 2176,
@@ -2105,6 +2147,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "大浪嘉仁",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh022-2.png",
     "stats": {
       "HP": 6011,
       "ATK": 1676,
@@ -2149,6 +2192,7 @@ window.CHARACTER_DATA = [
     "office": "グローバル・ドライバーズ・ユニオン",
     "cv": "乃村健次",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh023-1.png",
     "stats": {
       "HP": 6036,
       "ATK": 1715,
@@ -2190,6 +2234,7 @@ window.CHARACTER_DATA = [
     "office": "グローバル・ドライバーズ・ユニオン",
     "cv": "後藤ヒロキ",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh024-1.png",
     "stats": {
       "HP": 9269,
       "ATK": 1678,
@@ -2233,6 +2278,7 @@ window.CHARACTER_DATA = [
     "office": "グローバル・ドライバーズ・ユニオン",
     "cv": "後藤ヒロキ",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh024-2.png",
     "stats": {
       "HP": 5807,
       "ATK": 2673,
@@ -2274,6 +2320,7 @@ window.CHARACTER_DATA = [
     "office": "グローバル・ドライバーズ・ユニオン",
     "cv": "後藤ヒロキ",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh024-3.png",
     "stats": {
       "HP": 6131,
       "ATK": 2716,
@@ -2320,6 +2367,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "笠間淳",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh025-1.png",
     "stats": {
       "HP": 4975,
       "ATK": 1715,
@@ -2362,6 +2410,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "笠間淳",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh025-2.png",
     "stats": {
       "HP": 6048,
       "ATK": 2786,
@@ -2405,6 +2454,7 @@ window.CHARACTER_DATA = [
     "office": "クリエイティブ・ブレイン",
     "cv": "天野ユウ",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh026-1.png",
     "stats": {
       "HP": 6053,
       "ATK": 1676,
@@ -2445,6 +2495,7 @@ window.CHARACTER_DATA = [
     "office": "グルメットファイターズ",
     "cv": "樹元オリエ",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh027-1.png",
     "stats": {
       "HP": 5059,
       "ATK": 1739,
@@ -2488,6 +2539,7 @@ window.CHARACTER_DATA = [
     "office": "ブロードキャスターズ",
     "cv": "内匠靖明",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh028-1.png",
     "stats": {
       "HP": 6036,
       "ATK": 1662,
@@ -2525,6 +2577,7 @@ window.CHARACTER_DATA = [
     "office": "ブロードキャスターズ",
     "cv": "内匠靖明",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh028-2.png",
     "stats": {
       "HP": 5034,
       "ATK": 3198,
@@ -2568,6 +2621,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "てらそままさき",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh029-1.png",
     "stats": {
       "HP": 4905,
       "ATK": 2770,
@@ -2612,6 +2666,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "てらそままさき",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh029-2.png",
     "stats": {
       "HP": 5114,
       "ATK": 1700,
@@ -2653,6 +2708,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "野島健児",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh030-1.png",
     "stats": {
       "HP": 5304,
       "ATK": 3035,
@@ -2695,6 +2751,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "野島健児",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh030-2.png",
     "stats": {
       "HP": 5394,
       "ATK": 2705,
@@ -2736,6 +2793,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "山口勝平",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh031-1.png",
     "stats": {
       "HP": 4925,
       "ATK": 1684,
@@ -2776,6 +2834,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "山口勝平",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh031-2.png",
     "stats": {
       "HP": 5904,
       "ATK": 2840,
@@ -2820,6 +2879,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "内匠靖明",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh032-1.png",
     "stats": {
       "HP": 5059,
       "ATK": 2196,
@@ -2864,6 +2924,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "内匠靖明",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh032-2.png",
     "stats": {
       "HP": 8170,
       "ATK": 1203,
@@ -2917,6 +2978,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "堀内賢雄",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh033-1.png",
     "stats": {
       "HP": 4940,
       "ATK": 2670,
@@ -2958,6 +3020,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "堀内賢雄",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh033-2.png",
     "stats": {
       "HP": 5214,
       "ATK": 2729,
@@ -3005,6 +3068,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "千葉一伸",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh034-1.png",
     "stats": {
       "HP": 6084,
       "ATK": 2640,
@@ -3045,6 +3109,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh035-1.png",
     "stats": {
       "HP": 5940,
       "ATK": 2146,
@@ -3085,6 +3150,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh035-2.png",
     "stats": {
       "HP": 5940,
       "ATK": 2146,
@@ -3125,6 +3191,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh035-3.png",
     "stats": {
       "HP": 5940,
       "ATK": 2146,
@@ -3165,6 +3232,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh035-4.png",
     "stats": {
       "HP": 5940,
       "ATK": 2146,
@@ -3205,6 +3273,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh035-5.png",
     "stats": {
       "HP": 5940,
       "ATK": 2146,
@@ -3245,6 +3314,7 @@ window.CHARACTER_DATA = [
     "office": "S&S Heroes",
     "cv": "置鮎龍太郎",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh036-1.png",
     "stats": {
       "HP": 6011,
       "ATK": 3239,
@@ -3287,6 +3357,7 @@ window.CHARACTER_DATA = [
     "office": "S&S Heroes",
     "cv": "置鮎龍太郎",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh036-2.png",
     "stats": {
       "HP": 5144,
       "ATK": 2111,
@@ -3332,6 +3403,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "山口勝平",
     "obtain": "イベント配布・イベント交換",
+    "iconUrl": "images/hero/idh037-1.png",
     "stats": {
       "HP": 4945,
       "ATK": 2150,
@@ -3373,6 +3445,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "山口勝平",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh037-2.png",
     "stats": {
       "HP": 6096,
       "ATK": 2251,
@@ -3415,6 +3488,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh038-1.png",
     "stats": {
       "HP": 5880,
       "ATK": 1182,
@@ -3457,6 +3531,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh038-2.png",
     "stats": {
       "HP": 5910,
       "ATK": 1170,
@@ -3499,6 +3574,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh038-3.png",
     "stats": {
       "HP": 5850,
       "ATK": 1176,
@@ -3541,6 +3617,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh038-4.png",
     "stats": {
       "HP": 5880,
       "ATK": 1176,
@@ -3583,6 +3660,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh038-5.png",
     "stats": {
       "HP": 5940,
       "ATK": 1170,
@@ -3625,6 +3703,7 @@ window.CHARACTER_DATA = [
     "office": "クリエイティブ・ブレイン",
     "cv": "ならはしみき",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh039-1.png",
     "stats": {
       "HP": 5927,
       "ATK": 2168,
@@ -3665,6 +3744,7 @@ window.CHARACTER_DATA = [
     "office": "アラディシア王国騎兵隊",
     "cv": "福山潤",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh040-1.png",
     "stats": {
       "HP": 5104,
       "ATK": 2829,
@@ -3705,6 +3785,7 @@ window.CHARACTER_DATA = [
     "office": "アラディシア王国騎兵隊",
     "cv": "有元勇輝",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh041-1.png",
     "stats": {
       "HP": 7883,
       "ATK": 2196,
@@ -3746,6 +3827,7 @@ window.CHARACTER_DATA = [
     "office": "アラディシア王国騎兵隊",
     "cv": "有元勇輝",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh041-2.png",
     "stats": {
       "HP": 5154,
       "ATK": 3143,
@@ -3787,6 +3869,7 @@ window.CHARACTER_DATA = [
     "office": "グローバル・ドライバーズ・ユニオン",
     "cv": "増元拓也",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh042-1.png",
     "stats": {
       "HP": 6071,
       "ATK": 2233,
@@ -3828,6 +3911,7 @@ window.CHARACTER_DATA = [
     "office": "グローバル・ドライバーズ・ユニオン",
     "cv": "増元拓也",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh042-2.png",
     "stats": {
       "HP": 6149,
       "ATK": 2789,
@@ -3869,6 +3953,7 @@ window.CHARACTER_DATA = [
     "office": "ブロードキャスターズ",
     "cv": "戸板優衣",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh043-1.png",
     "stats": {
       "HP": 4945,
       "ATK": 2203,
@@ -3911,6 +3996,7 @@ window.CHARACTER_DATA = [
     "office": "ブロードキャスターズ",
     "cv": "戸板優衣",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh043-2.png",
     "stats": {
       "HP": 5119,
       "ATK": 2721,
@@ -3955,6 +4041,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "平田広明",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh044-1.png",
     "stats": {
       "HP": 4061,
       "ATK": 2632,
@@ -3998,6 +4085,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "平田広明",
     "obtain": "配布・イベント配布・イベント交換・常設ガチャ・限定ガチャ",
+    "iconUrl": "images/hero/idh044-2.png",
     "stats": {
       "HP": 5089,
       "ATK": 2764,
@@ -4042,6 +4130,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh045-1.png",
     "stats": {
       "HP": 4870,
       "ATK": 1661,
@@ -4083,6 +4172,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh045-2.png",
     "stats": {
       "HP": 4880,
       "ATK": 1659,
@@ -4124,6 +4214,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh045-3.png",
     "stats": {
       "HP": 4905,
       "ATK": 1654,
@@ -4165,6 +4256,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh045-4.png",
     "stats": {
       "HP": 4855,
       "ATK": 1657,
@@ -4206,6 +4298,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh045-5.png",
     "stats": {
       "HP": 4880,
       "ATK": 1671,
@@ -4247,6 +4340,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "熊本健太",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh046-1.png",
     "stats": {
       "HP": 5988,
       "ATK": 2643,
@@ -4287,6 +4381,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "熊本健太",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh046-2.png",
     "stats": {
       "HP": 7465,
       "ATK": 2710,
@@ -4331,6 +4426,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "三宅健太",
     "obtain": "イベント配布・イベント交換",
+    "iconUrl": "images/hero/idh047-1.png",
     "stats": {
       "HP": 5044,
       "ATK": 1735,
@@ -4373,6 +4469,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "三宅健太",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh047-2.png",
     "stats": {
       "HP": 5214,
       "ATK": 2716,
@@ -4414,6 +4511,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "宮本崇弘",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh048-1.png",
     "stats": {
       "HP": 5531,
       "ATK": 1732,
@@ -4456,6 +4554,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "宮本崇弘",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh048-2.png",
     "stats": {
       "HP": 6342,
       "ATK": 2705,
@@ -4499,6 +4598,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh049-1.png",
     "stats": {
       "HP": 4910,
       "ATK": 1661,
@@ -4536,6 +4636,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh049-2.png",
     "stats": {
       "HP": 4945,
       "ATK": 1644,
@@ -4573,6 +4674,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh049-3.png",
     "stats": {
       "HP": 4910,
       "ATK": 1649,
@@ -4610,6 +4712,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh049-4.png",
     "stats": {
       "HP": 4895,
       "ATK": 1652,
@@ -4647,6 +4750,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh049-5.png",
     "stats": {
       "HP": 4870,
       "ATK": 1656,
@@ -4684,6 +4788,7 @@ window.CHARACTER_DATA = [
     "office": "日本国防衛局",
     "cv": "成田剣",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh050-1.png",
     "stats": {
       "HP": 8154,
       "ATK": 2266,
@@ -4726,6 +4831,7 @@ window.CHARACTER_DATA = [
     "office": "日本国防衛局",
     "cv": "成田剣",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh050-2.png",
     "stats": {
       "HP": 7003,
       "ATK": 2870,
@@ -4770,6 +4876,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "速水奨",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh051-1.png",
     "stats": {
       "HP": 4920,
       "ATK": 1754,
@@ -4813,6 +4920,7 @@ window.CHARACTER_DATA = [
     "office": "S&S Heroes",
     "cv": "後藤ヒロキ",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh052-1.png",
     "stats": {
       "HP": 6071,
       "ATK": 1196,
@@ -4854,6 +4962,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "後藤ヒロキ",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh053-1.png",
     "stats": {
       "HP": 6131,
       "ATK": 2737,
@@ -4895,6 +5004,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "後藤ヒロキ",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh053-2.png",
     "stats": {
       "HP": 5169,
       "ATK": 2673,
@@ -4937,6 +5047,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "有元勇輝",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh054-1.png",
     "stats": {
       "HP": 6071,
       "ATK": 2244,
@@ -4982,6 +5093,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "有元勇輝",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh054-2.png",
     "stats": {
       "HP": 6234,
       "ATK": 2716,
@@ -5029,6 +5141,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "野上翔",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh055-1.png",
     "stats": {
       "HP": 5054,
       "ATK": 2640,
@@ -5072,6 +5185,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "上野翔",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh055-2.png",
     "stats": {
       "HP": 5054,
       "ATK": 1213,
@@ -5117,6 +5231,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "福西勝也",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh056-1.png",
     "stats": {
       "HP": 5867,
       "ATK": 2718,
@@ -5160,6 +5275,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "福西勝也",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh056-2.png",
     "stats": {
       "HP": 5094,
       "ATK": 1810,
@@ -5203,6 +5319,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント配布・イベント交換",
+    "iconUrl": "images/hero/idh057-1.png",
     "stats": {
       "HP": 4760,
       "ATK": 2119,
@@ -5242,6 +5359,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント配布・イベント交換",
+    "iconUrl": "images/hero/idh057-2.png",
     "stats": {
       "HP": 4785,
       "ATK": 2108,
@@ -5281,6 +5399,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント配布・イベント交換",
+    "iconUrl": "images/hero/idh057-3.png",
     "stats": {
       "HP": 4735,
       "ATK": 2108,
@@ -5320,6 +5439,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント配布・イベント交換",
+    "iconUrl": "images/hero/idh057-4.png",
     "stats": {
       "HP": 4710,
       "ATK": 2130,
@@ -5359,6 +5479,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント配布・イベント交換",
+    "iconUrl": "images/hero/idh057-5.png",
     "stats": {
       "HP": 4760,
       "ATK": 2141,
@@ -5398,6 +5519,7 @@ window.CHARACTER_DATA = [
     "office": "ネオタレンツ・プロダクション",
     "cv": "檜山修之",
     "obtain": "イベント配布・イベント交換",
+    "iconUrl": "images/hero/idh058-1.png",
     "stats": {
       "HP": 4975,
       "ATK": 2586,
@@ -5439,6 +5561,7 @@ window.CHARACTER_DATA = [
     "office": "ネオタレンツ・プロダクション",
     "cv": "檜山修之",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh058-2.png",
     "stats": {
       "HP": 5264,
       "ATK": 2891,
@@ -5481,6 +5604,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "音代雪里",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh059-1.png",
     "stats": {
       "HP": 7304,
       "ATK": 2113,
@@ -5523,6 +5647,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "乃村健次",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh060-1.png",
     "stats": {
       "HP": 4213,
       "ATK": 1713,
@@ -5568,6 +5693,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "乃村健次",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh060-2.png",
     "stats": {
       "HP": 6078,
       "ATK": 2770,
@@ -5612,6 +5738,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "堀内賢雄",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh061-1.png",
     "stats": {
       "HP": 5796,
       "ATK": 1767,
@@ -5654,6 +5781,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "伊勢栞莉也",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh062-1.png",
     "stats": {
       "HP": 4965,
       "ATK": 2678,
@@ -5694,6 +5822,7 @@ window.CHARACTER_DATA = [
     "office": "ギルド・イーグルアイズ",
     "cv": "成田剣",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh063-1.png",
     "stats": {
       "HP": 7080,
       "ATK": 2246,
@@ -5737,6 +5866,7 @@ window.CHARACTER_DATA = [
     "office": "ギャラクシー・アスリーツ",
     "cv": "戸板優衣",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh064-1.png",
     "stats": {
       "HP": 4935,
       "ATK": 1840,
@@ -5777,6 +5907,7 @@ window.CHARACTER_DATA = [
     "office": "日本国防衛局",
     "cv": "安元洋貴",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh065-1.png",
     "stats": {
       "HP": 5034,
       "ATK": 1598,
@@ -5820,6 +5951,7 @@ window.CHARACTER_DATA = [
     "office": "日本国防衛局",
     "cv": "安元洋貴",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh065-2.png",
     "stats": {
       "HP": 6126,
       "ATK": 2770,
@@ -5864,6 +5996,7 @@ window.CHARACTER_DATA = [
     "office": "ギルド・イーグルアイズ",
     "cv": "玉木雅士",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh066-1.png",
     "stats": {
       "HP": 5184,
       "ATK": 2732,
@@ -5905,6 +6038,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "天野ユウ",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh067-1.png",
     "stats": {
       "HP": 5024,
       "ATK": 2190,
@@ -5949,6 +6083,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh068-1.png",
     "stats": {
       "HP": 7059,
       "ATK": 1176,
@@ -5992,6 +6127,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh068-2.png",
     "stats": {
       "HP": 7094,
       "ATK": 1170,
@@ -6035,6 +6171,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh068-3.png",
     "stats": {
       "HP": 7024,
       "ATK": 1182,
@@ -6078,6 +6215,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh068-4.png",
     "stats": {
       "HP": 7024,
       "ATK": 1170,
@@ -6121,6 +6259,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh068-5.png",
     "stats": {
       "HP": 7094,
       "ATK": 1182,
@@ -6164,6 +6303,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "竹内良太",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh069-1.png",
     "stats": {
       "HP": 7115,
       "ATK": 2905,
@@ -6206,6 +6346,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "竹内良太",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh069-2.png",
     "stats": {
       "HP": 6156,
       "ATK": 2648,
@@ -6250,6 +6391,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "子安武人",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh070-1.png",
     "stats": {
       "HP": 6773,
       "ATK": 1737,
@@ -6293,6 +6435,7 @@ window.CHARACTER_DATA = [
     "office": "ネオタレンツ・プロダクション",
     "cv": "林勇",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh071-1.png",
     "stats": {
       "HP": 6287,
       "ATK": 2578,
@@ -6333,6 +6476,7 @@ window.CHARACTER_DATA = [
     "office": "ネオタレンツ・プロダクション",
     "cv": "林勇",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh071-2.png",
     "stats": {
       "HP": 5059,
       "ATK": 2753,
@@ -6380,6 +6524,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "白熊寛嗣",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh072-1.png",
     "stats": {
       "HP": 5189,
       "ATK": 2581,
@@ -6424,6 +6569,7 @@ window.CHARACTER_DATA = [
     "office": "ブロードキャスターズ",
     "cv": "福山潤",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh073-1.png",
     "stats": {
       "HP": 4935,
       "ATK": 1715,
@@ -6466,6 +6612,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "折笠愛",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh074-1.png",
     "stats": {
       "HP": 4980,
       "ATK": 1720,
@@ -6506,6 +6653,7 @@ window.CHARACTER_DATA = [
     "office": "グルメットファイターズ",
     "cv": "かぬか光明",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh075-1.png",
     "stats": {
       "HP": 6138,
       "ATK": 2651,
@@ -6546,6 +6694,7 @@ window.CHARACTER_DATA = [
     "office": "S&S Heroes",
     "cv": "宮本充",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh076-1.png",
     "stats": {
       "HP": 6078,
       "ATK": 2721,
@@ -6590,6 +6739,7 @@ window.CHARACTER_DATA = [
     "office": "S&S Heroes",
     "cv": "宮本充",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh076-2.png",
     "stats": {
       "HP": 6078,
       "ATK": 1686,
@@ -6638,6 +6788,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "阪口大助",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh077-1.png",
     "stats": {
       "HP": 5945,
       "ATK": 1703,
@@ -6683,6 +6834,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "阪口大助",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh077-2.png",
     "stats": {
       "HP": 5049,
       "ATK": 2133,
@@ -6732,6 +6884,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "平川大輔",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh078-1.png",
     "stats": {
       "HP": 7276,
       "ATK": 2816,
@@ -6777,6 +6930,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "中谷一博",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh079-1.png",
     "stats": {
       "HP": 6149,
       "ATK": 2106,
@@ -6821,6 +6975,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "中谷一博",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh079-2.png",
     "stats": {
       "HP": 6071,
       "ATK": 3210,
@@ -6865,6 +7020,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh080-1.png",
     "stats": {
       "HP": 5934,
       "ATK": 1730,
@@ -6907,6 +7063,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh080-2.png",
     "stats": {
       "HP": 5964,
       "ATK": 1713,
@@ -6949,6 +7106,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh080-3.png",
     "stats": {
       "HP": 5904,
       "ATK": 1722,
@@ -6991,6 +7149,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh080-4.png",
     "stats": {
       "HP": 5934,
       "ATK": 1722,
@@ -7033,6 +7192,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh080-5.png",
     "stats": {
       "HP": 5904,
       "ATK": 1739,
@@ -7075,6 +7235,7 @@ window.CHARACTER_DATA = [
     "office": "ネオタレンツ・プロダクション",
     "cv": "小西克幸",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh081-1.png",
     "stats": {
       "HP": 5039,
       "ATK": 1717,
@@ -7115,6 +7276,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "藤原貴弘",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh082-1.png",
     "stats": {
       "HP": 7185,
       "ATK": 2229,
@@ -7159,6 +7321,7 @@ window.CHARACTER_DATA = [
     "office": "クリエイティブ・ブレイン",
     "cv": "石上静香",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh083-1.png",
     "stats": {
       "HP": 5772,
       "ATK": 2176,
@@ -7202,6 +7365,7 @@ window.CHARACTER_DATA = [
     "office": "S&S Heroes",
     "cv": "志村知幸",
     "obtain": "イベント配布・イベント交換",
+    "iconUrl": "images/hero/idh084-1.png",
     "stats": {
       "HP": 7101,
       "ATK": 1623,
@@ -7251,6 +7415,7 @@ window.CHARACTER_DATA = [
     "office": "ブロードキャスターズ",
     "cv": "浦和めぐみ",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh085-1.png",
     "stats": {
       "HP": 6071,
       "ATK": 2729,
@@ -7292,6 +7457,7 @@ window.CHARACTER_DATA = [
     "office": "S&S Heroes",
     "cv": "小林親弘",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh086-1.png",
     "stats": {
       "HP": 4955,
       "ATK": 1684,
@@ -7333,6 +7499,7 @@ window.CHARACTER_DATA = [
     "office": "S&S Heroes",
     "cv": "小林親弘",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh086-2.png",
     "stats": {
       "HP": 5189,
       "ATK": 2756,
@@ -7375,6 +7542,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "榎木淳弥",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh087-1.png",
     "stats": {
       "HP": 5214,
       "ATK": 2627,
@@ -7417,6 +7585,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "落合福嗣",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh088-1.png",
     "stats": {
       "HP": 4930,
       "ATK": 2165,
@@ -7461,6 +7630,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "落合福嗣",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh088-2.png",
     "stats": {
       "HP": 7304,
       "ATK": 2205,
@@ -7507,6 +7677,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh089-1.png",
     "stats": {
       "HP": 4830,
       "ATK": 2133,
@@ -7548,6 +7719,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh089-2.png",
     "stats": {
       "HP": 4880,
       "ATK": 2111,
@@ -7589,6 +7761,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh089-3.png",
     "stats": {
       "HP": 4855,
       "ATK": 2122,
@@ -7630,6 +7803,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh089-4.png",
     "stats": {
       "HP": 4830,
       "ATK": 2122,
@@ -7671,6 +7845,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh089-5.png",
     "stats": {
       "HP": 4855,
       "ATK": 2133,
@@ -7712,6 +7887,7 @@ window.CHARACTER_DATA = [
     "office": "グローバル・ドライバーズ・ユニオン",
     "cv": "内山夕実",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh090-1.png",
     "stats": {
       "HP": 5139,
       "ATK": 1162,
@@ -7754,6 +7930,7 @@ window.CHARACTER_DATA = [
     "office": "グローバル・ドライバーズ・ユニオン",
     "cv": "林勇",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh091-1.png",
     "stats": {
       "HP": 6347,
       "ATK": 1642,
@@ -7799,6 +7976,7 @@ window.CHARACTER_DATA = [
     "office": "グローバル・ドライバーズ・ユニオン",
     "cv": "三瓶由布子",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh092-1.png",
     "stats": {
       "HP": 4915,
       "ATK": 1667,
@@ -7844,6 +8022,7 @@ window.CHARACTER_DATA = [
     "office": "クリエイティブ・ブレイン",
     "cv": "坂泰斗",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh093-1.png",
     "stats": {
       "HP": 5927,
       "ATK": 1747,
@@ -7890,6 +8069,7 @@ window.CHARACTER_DATA = [
     "office": "クリエイティブ・ブレイン",
     "cv": "後藤光祐",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh094-1.png",
     "stats": {
       "HP": 5981,
       "ATK": 2616,
@@ -7932,6 +8112,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh095-1.png",
     "stats": {
       "HP": 4655,
       "ATK": 1730,
@@ -7972,6 +8153,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh095-2.png",
     "stats": {
       "HP": 4680,
       "ATK": 1713,
@@ -8012,6 +8194,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh095-3.png",
     "stats": {
       "HP": 4630,
       "ATK": 1722,
@@ -8052,6 +8235,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh095-4.png",
     "stats": {
       "HP": 4655,
       "ATK": 1722,
@@ -8092,6 +8276,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/hero/idh095-5.png",
     "stats": {
       "HP": 4630,
       "ATK": 1727,
@@ -8132,6 +8317,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "関俊彦",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh096-1.png",
     "stats": {
       "HP": 7241,
       "ATK": 2716,
@@ -8176,6 +8362,7 @@ window.CHARACTER_DATA = [
     "office": "グルメットファイターズ",
     "cv": "楠見尚己",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh097-1.png",
     "stats": {
       "HP": 8050,
       "ATK": 1695,
@@ -8221,6 +8408,7 @@ window.CHARACTER_DATA = [
     "office": "アラディシア王国騎兵隊",
     "cv": "佐藤拓也",
     "obtain": "イベント配布・イベント交換",
+    "iconUrl": "images/hero/idh098-1.png",
     "stats": {
       "HP": 4835,
       "ATK": 2567,
@@ -8264,6 +8452,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "小山力也",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh099-1.png",
     "stats": {
       "HP": 5927,
       "ATK": 1184,
@@ -8315,6 +8504,7 @@ window.CHARACTER_DATA = [
     "office": "ヒーローライセンス協会",
     "cv": "加瀬康之",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh100-1.png",
     "stats": {
       "HP": 6197,
       "ATK": 2751,
@@ -8357,6 +8547,7 @@ window.CHARACTER_DATA = [
     "office": "ヒーローライセンス協会",
     "cv": "平林剛",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh101-1.png",
     "stats": {
       "HP": 5169,
       "ATK": 1219,
@@ -8404,6 +8595,7 @@ window.CHARACTER_DATA = [
     "office": "ヒーローライセンス協会",
     "cv": "小山剛志",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh102-1.png",
     "stats": {
       "HP": 5850,
       "ATK": 1239,
@@ -8445,6 +8637,7 @@ window.CHARACTER_DATA = [
     "office": "S&S Heroes",
     "cv": "山下誠一郎",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh103-1.png",
     "stats": {
       "HP": 5921,
       "ATK": 1688,
@@ -8487,6 +8680,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "山路和弘",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh104-1.png",
     "stats": {
       "HP": 8322,
       "ATK": 1706,
@@ -8534,6 +8728,7 @@ window.CHARACTER_DATA = [
     "office": "クリエイティブ・ブレイン",
     "cv": "狩野翔",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh105-1.png",
     "stats": {
       "HP": 5034,
       "ATK": 1197,
@@ -8578,6 +8773,7 @@ window.CHARACTER_DATA = [
     "office": "ギルド・イーグルアイズ",
     "cv": "中井和哉",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh106-1.png",
     "stats": {
       "HP": 4041,
       "ATK": 2783,
@@ -8624,6 +8820,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "畠中祐",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh107-1.png",
     "stats": {
       "HP": 5970,
       "ATK": 2624,
@@ -8666,6 +8863,7 @@ window.CHARACTER_DATA = [
     "office": "グルメットファイターズ",
     "cv": "伊丸岡篤",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh108-1.png",
     "stats": {
       "HP": 7136,
       "ATK": 2783,
@@ -8709,6 +8907,7 @@ window.CHARACTER_DATA = [
     "office": "グルメットファイターズ",
     "cv": "くまいもとこ",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh109-1.png",
     "stats": {
       "HP": 6023,
       "ATK": 1708,
@@ -8751,6 +8950,7 @@ window.CHARACTER_DATA = [
     "office": "ブロードキャスターズ",
     "cv": "浦和希",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh110-1.png",
     "stats": {
       "HP": 5867,
       "ATK": 1669,
@@ -8800,6 +9000,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "保坂俊行",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh111-1.png",
     "stats": {
       "HP": 5084,
       "ATK": 2810,
@@ -8842,6 +9043,7 @@ window.CHARACTER_DATA = [
     "office": "ギルド・イーグルアイズ",
     "cv": "星野貴紀",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh112-1.png",
     "stats": {
       "HP": 7101,
       "ATK": 1744,
@@ -8889,6 +9091,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "野島健児",
     "obtain": "限定ガチャ",
+    "iconUrl": "images/hero/idh113-1.png",
     "stats": {
       "HP": 6108,
       "ATK": 2802,
@@ -8934,6 +9137,7 @@ window.CHARACTER_DATA = [
     "office": "ブロードキャスターズ",
     "cv": "高橋広樹",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/hero/idh114-1.png",
     "stats": {
       "HP": 5074,
       "ATK": 2616,
@@ -8978,6 +9182,7 @@ window.CHARACTER_DATA = [
     "office": "ギルド・イーグルアイズ",
     "cv": "東地宏樹",
     "obtain": "イベント配布・イベント交換",
+    "iconUrl": "images/hero/idh115-1.png",
     "stats": {
       "HP": 4860,
       "ATK": 1623,
@@ -9024,6 +9229,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "保坂俊行",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids001.png",
     "stats": {
       "HP": 850,
       "ATK": 420,
@@ -9059,6 +9265,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "熊本健太",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids002.png",
     "stats": {
       "HP": 550,
       "ATK": 420,
@@ -9090,6 +9297,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "伊瀬栞莉也",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids003.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -9124,6 +9332,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "中谷一博",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids004.png",
     "stats": {
       "HP": 700,
       "ATK": 260,
@@ -9155,6 +9364,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "山口眞弓",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids005.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -9189,6 +9399,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "てらそままさき",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids006.png",
     "stats": {
       "HP": 700,
       "ATK": 340,
@@ -9222,6 +9433,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "岩永悠平",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids007.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -9253,6 +9465,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "よねざわたかし",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids008.png",
     "stats": {
       "HP": 850,
       "ATK": 180,
@@ -9287,6 +9500,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "尾形雅宏",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids009.png",
     "stats": {
       "HP": 400,
       "ATK": 420,
@@ -9321,6 +9535,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "よねざわたかし",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids010.png",
     "stats": {
       "HP": 550,
       "ATK": 420,
@@ -9352,6 +9567,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "戸板優衣",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids011.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -9385,6 +9601,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "成田剣",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids012.png",
     "stats": {
       "HP": 550,
       "ATK": 180,
@@ -9420,6 +9637,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "稲田徹",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids013.png",
     "stats": {
       "HP": 400,
       "ATK": 420,
@@ -9451,6 +9669,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "大友龍三郎",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids014.png",
     "stats": {
       "HP": 850,
       "ATK": 180,
@@ -9485,6 +9704,7 @@ window.CHARACTER_DATA = [
     "office": "ギャラクシー・アスリーツ",
     "cv": "三宅健太",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids015.png",
     "stats": {
       "HP": 850,
       "ATK": 260,
@@ -9518,6 +9738,7 @@ window.CHARACTER_DATA = [
     "office": "ギャラクシー・アスリーツ",
     "cv": "幸田承",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids016.png",
     "stats": {
       "HP": 550,
       "ATK": 420,
@@ -9552,6 +9773,7 @@ window.CHARACTER_DATA = [
     "office": "ネオタレンツ・プロダクション",
     "cv": "小林由美子",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids017.png",
     "stats": {
       "HP": 550,
       "ATK": 180,
@@ -9585,6 +9807,7 @@ window.CHARACTER_DATA = [
     "office": "ネオタレンツ・プロダクション",
     "cv": "夏怜",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids018.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -9618,6 +9841,7 @@ window.CHARACTER_DATA = [
     "office": "M．A．H．A．",
     "cv": "笠間淳",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids019.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -9652,6 +9876,7 @@ window.CHARACTER_DATA = [
     "office": "M．A．H．A．",
     "cv": "大浪嘉仁",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids020.png",
     "stats": {
       "HP": 700,
       "ATK": 340,
@@ -9685,6 +9910,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "尾形雅宏",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids021.png",
     "stats": {
       "HP": 550,
       "ATK": 420,
@@ -9718,6 +9944,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "大浪嘉仁",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids022.png",
     "stats": {
       "HP": 1000,
       "ATK": 260,
@@ -9752,6 +9979,7 @@ window.CHARACTER_DATA = [
     "office": "グローバル・ドライバーズ・ユニオン",
     "cv": "乃村健次",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids023.png",
     "stats": {
       "HP": 700,
       "ATK": 180,
@@ -9787,6 +10015,7 @@ window.CHARACTER_DATA = [
     "office": "グローバル・ドライバーズ・ユニオン",
     "cv": "後藤ヒロキ",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids024.png",
     "stats": {
       "HP": 850,
       "ATK": 260,
@@ -9820,6 +10049,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "笠間淳",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids025.png",
     "stats": {
       "HP": 400,
       "ATK": 260,
@@ -9854,6 +10084,7 @@ window.CHARACTER_DATA = [
     "office": "クリエイティブ・ブレイン",
     "cv": "天野ユウ",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids026.png",
     "stats": {
       "HP": 700,
       "ATK": 260,
@@ -9887,6 +10118,7 @@ window.CHARACTER_DATA = [
     "office": "グルメットファイターズ",
     "cv": "樹元オリエ",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids027.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -9920,6 +10152,7 @@ window.CHARACTER_DATA = [
     "office": "ブロードキャスターズ",
     "cv": "内匠靖明",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids028.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -9954,6 +10187,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "てらそままさき",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids029.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -9988,6 +10222,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "野島健児",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids030.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -10021,6 +10256,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "山口勝平",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids031.png",
     "stats": {
       "HP": 400,
       "ATK": 180,
@@ -10055,6 +10291,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "内匠靖明",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids032.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -10090,6 +10327,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "堀内賢雄",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids033.png",
     "stats": {
       "HP": 1000,
       "ATK": 260,
@@ -10124,6 +10362,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "千葉一伸",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids034.png",
     "stats": {
       "HP": 700,
       "ATK": 340,
@@ -10158,6 +10397,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "ーー",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids035-1.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -10189,6 +10429,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "ーー",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids035-2.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -10220,6 +10461,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "ーー",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids035-3.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -10251,6 +10493,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "ーー",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids035-4.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -10282,6 +10525,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "ーー",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids035-5.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -10313,6 +10557,7 @@ window.CHARACTER_DATA = [
     "office": "S&S Heroes",
     "cv": "置鮎龍太郎",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids036.png",
     "stats": {
       "HP": 700,
       "ATK": 420,
@@ -10347,6 +10592,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "山口勝平",
     "obtain": "イベント交換・スターシャード交換",
+    "iconUrl": "images/sidekick/ids037.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -10381,6 +10627,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "ーー",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids038-1.png",
     "stats": {
       "HP": 400,
       "ATK": 260,
@@ -10415,6 +10662,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "ーー",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids038-2.png",
     "stats": {
       "HP": 400,
       "ATK": 260,
@@ -10450,6 +10698,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "ーー",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids038-3.png",
     "stats": {
       "HP": 400,
       "ATK": 260,
@@ -10486,6 +10735,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "ーー",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids038-4.png",
     "stats": {
       "HP": 400,
       "ATK": 260,
@@ -10520,6 +10770,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "ーー",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids038-5.png",
     "stats": {
       "HP": 400,
       "ATK": 260,
@@ -10554,6 +10805,7 @@ window.CHARACTER_DATA = [
     "office": "クリエイティブ・ブレイン",
     "cv": "ならはしみき",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids039.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -10587,6 +10839,7 @@ window.CHARACTER_DATA = [
     "office": "アラディシア王国騎兵隊",
     "cv": "福山潤",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids040.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -10618,6 +10871,7 @@ window.CHARACTER_DATA = [
     "office": "アラディシア王国騎兵隊",
     "cv": "有元勇輝",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids041.png",
     "stats": {
       "HP": 850,
       "ATK": 260,
@@ -10653,6 +10907,7 @@ window.CHARACTER_DATA = [
     "office": "グローバル・ドライバーズ・ユニオン",
     "cv": "増元拓也",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids042.png",
     "stats": {
       "HP": 700,
       "ATK": 340,
@@ -10687,6 +10942,7 @@ window.CHARACTER_DATA = [
     "office": "ブロードキャスターズ",
     "cv": "戸板優衣",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids043.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -10724,6 +10980,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "平田広明",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids044.png",
     "stats": {
       "HP": 400,
       "ATK": 340,
@@ -10757,6 +11014,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "ーー",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids045-1.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -10790,6 +11048,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "ーー",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids045-2.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -10823,6 +11082,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "ーー",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids045-3.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -10856,6 +11116,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "ーー",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids045-4.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -10889,6 +11150,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "ーー",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids045-5.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -10922,6 +11184,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "夏怜",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids046.png",
     "stats": {
       "HP": 700,
       "ATK": 260,
@@ -10958,6 +11221,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "熊本健太",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids047.png",
     "stats": {
       "HP": 700,
       "ATK": 340,
@@ -10992,6 +11256,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "三宅健太",
     "obtain": "イベント交換・スターシャード交換",
+    "iconUrl": "images/sidekick/ids048.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -11026,6 +11291,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "宮本崇弘",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids049.png",
     "stats": {
       "HP": 850,
       "ATK": 180,
@@ -11061,6 +11327,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "ーー",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids050-1.png",
     "stats": {
       "HP": 400,
       "ATK": 260,
@@ -11095,6 +11362,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "ーー",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids050-2.png",
     "stats": {
       "HP": 400,
       "ATK": 260,
@@ -11130,6 +11398,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "ーー",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids050-3.png",
     "stats": {
       "HP": 400,
       "ATK": 260,
@@ -11163,6 +11432,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "ーー",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids050-4.png",
     "stats": {
       "HP": 400,
       "ATK": 260,
@@ -11197,6 +11467,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "ーー",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids050-5.png",
     "stats": {
       "HP": 400,
       "ATK": 260,
@@ -11231,6 +11502,7 @@ window.CHARACTER_DATA = [
     "office": "日本国防衛局",
     "cv": "成田剣",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids051.png",
     "stats": {
       "HP": 850,
       "ATK": 340,
@@ -11264,6 +11536,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "速水奨",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids052.png",
     "stats": {
       "HP": 400,
       "ATK": 180,
@@ -11295,6 +11568,7 @@ window.CHARACTER_DATA = [
     "office": "S&S Heroes",
     "cv": "後藤ヒロキ",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids053.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -11329,6 +11603,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "後藤ヒロキ",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids054.png",
     "stats": {
       "HP": 700,
       "ATK": 340,
@@ -11362,6 +11637,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "有元勇輝",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids055.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -11397,6 +11673,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "野上翔",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids056.png",
     "stats": {
       "HP": 550,
       "ATK": 420,
@@ -11430,6 +11707,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "小山力也",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids057.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -11465,6 +11743,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "福西勝也",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids058.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -11500,6 +11779,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids059-1.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -11533,6 +11813,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids059-2.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -11566,6 +11847,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids059-3.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -11599,6 +11881,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids059-4.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -11632,6 +11915,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids059-5.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -11663,6 +11947,7 @@ window.CHARACTER_DATA = [
     "office": "ネオタレンツ・プロダクション",
     "cv": "檜山修之",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids060.png",
     "stats": {
       "HP": 550,
       "ATK": 420,
@@ -11699,6 +11984,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "音代雪里",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids061.png",
     "stats": {
       "HP": 850,
       "ATK": 340,
@@ -11736,6 +12022,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "乃村健次",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids062.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -11770,6 +12057,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "堀内賢雄",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids063.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -11803,6 +12091,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "伊勢栞莉也",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids064.png",
     "stats": {
       "HP": 1000,
       "ATK": 340,
@@ -11840,6 +12129,7 @@ window.CHARACTER_DATA = [
     "office": "ギルド・イーグルアイズ",
     "cv": "成田剣",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids065.png",
     "stats": {
       "HP": 850,
       "ATK": 420,
@@ -11878,6 +12168,7 @@ window.CHARACTER_DATA = [
     "office": "ギャラクシー・アスリーツ",
     "cv": "戸板優衣",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids066.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -11911,6 +12202,7 @@ window.CHARACTER_DATA = [
     "office": "日本国防衛局",
     "cv": "安元洋貴",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids067.png",
     "stats": {
       "HP": 700,
       "ATK": 180,
@@ -11947,6 +12239,7 @@ window.CHARACTER_DATA = [
     "office": "ギルド・イーグルアイズ",
     "cv": "玉木雅士",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids068.png",
     "stats": {
       "HP": 700,
       "ATK": 340,
@@ -11980,6 +12273,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "天野ユウ",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids069.png",
     "stats": {
       "HP": 700,
       "ATK": 340,
@@ -12017,6 +12311,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "福西勝也",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids070.png",
     "stats": {
       "HP": 400,
       "ATK": 500,
@@ -12055,6 +12350,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids071-1.png",
     "stats": {
       "HP": 700,
       "ATK": 260,
@@ -12090,6 +12386,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids071-2.png",
     "stats": {
       "HP": 700,
       "ATK": 260,
@@ -12125,6 +12422,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids071-3.png",
     "stats": {
       "HP": 700,
       "ATK": 260,
@@ -12160,6 +12458,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids071-4.png",
     "stats": {
       "HP": 700,
       "ATK": 260,
@@ -12196,6 +12495,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids071-5.png",
     "stats": {
       "HP": 700,
       "ATK": 260,
@@ -12230,6 +12530,7 @@ window.CHARACTER_DATA = [
     "office": "ヒロイック・エデュケーターズ",
     "cv": "竹内良太",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids072.png",
     "stats": {
       "HP": 700,
       "ATK": 420,
@@ -12261,6 +12562,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "子安武人",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids073.png",
     "stats": {
       "HP": 850,
       "ATK": 260,
@@ -12296,6 +12598,7 @@ window.CHARACTER_DATA = [
     "office": "ネオタレンツ・プロダクション",
     "cv": "林勇",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids074.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -12327,6 +12630,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "白熊寛嗣",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids075.png",
     "stats": {
       "HP": 850,
       "ATK": 420,
@@ -12363,6 +12667,7 @@ window.CHARACTER_DATA = [
     "office": "ブロードキャスターズ",
     "cv": "福山潤",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids076.png",
     "stats": {
       "HP": 700,
       "ATK": 340,
@@ -12397,6 +12702,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "折笠愛",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids077.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -12430,6 +12736,7 @@ window.CHARACTER_DATA = [
     "office": "グルメットファイターズ",
     "cv": "かぬか光明",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids078.png",
     "stats": {
       "HP": 700,
       "ATK": 420,
@@ -12465,6 +12772,7 @@ window.CHARACTER_DATA = [
     "office": "S&S Heroes",
     "cv": "宮本充",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids079.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -12499,6 +12807,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "阪口大助",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids080.png",
     "stats": {
       "HP": 550,
       "ATK": 420,
@@ -12535,6 +12844,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "平川大輔",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids081.png",
     "stats": {
       "HP": 700,
       "ATK": 260,
@@ -12568,6 +12878,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "中谷一博",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids082.png",
     "stats": {
       "HP": 550,
       "ATK": 420,
@@ -12603,6 +12914,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids083-1.png",
     "stats": {
       "HP": 700,
       "ATK": 340,
@@ -12638,6 +12950,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids083-2.png",
     "stats": {
       "HP": 700,
       "ATK": 340,
@@ -12674,6 +12987,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids083-3.png",
     "stats": {
       "HP": 700,
       "ATK": 340,
@@ -12708,6 +13022,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids083-4.png",
     "stats": {
       "HP": 700,
       "ATK": 340,
@@ -12743,6 +13058,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids083-5.png",
     "stats": {
       "HP": 700,
       "ATK": 340,
@@ -12778,6 +13094,7 @@ window.CHARACTER_DATA = [
     "office": "ネオタレンツ・プロダクション",
     "cv": "小西克幸",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids084.png",
     "stats": {
       "HP": 400,
       "ATK": 420,
@@ -12811,6 +13128,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "藤原貴弘",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids085.png",
     "stats": {
       "HP": 850,
       "ATK": 420,
@@ -12849,6 +13167,7 @@ window.CHARACTER_DATA = [
     "office": "クリエイティブ・ブレイン",
     "cv": "石上静香",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids086.png",
     "stats": {
       "HP": 700,
       "ATK": 500,
@@ -12883,6 +13202,7 @@ window.CHARACTER_DATA = [
     "office": "S&S Heroes",
     "cv": "志村知幸",
     "obtain": "イベント交換・スターシャード交換",
+    "iconUrl": "images/sidekick/ids087.png",
     "stats": {
       "HP": 700,
       "ATK": 340,
@@ -12919,6 +13239,7 @@ window.CHARACTER_DATA = [
     "office": "ブロードキャスターズ",
     "cv": "浦和めぐみ",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids088.png",
     "stats": {
       "HP": 1000,
       "ATK": 420,
@@ -12954,6 +13275,7 @@ window.CHARACTER_DATA = [
     "office": "S&S Heroes",
     "cv": "小林親弘",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids089.png",
     "stats": {
       "HP": 550,
       "ATK": 180,
@@ -12988,6 +13310,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "榎木淳弥",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids090.png",
     "stats": {
       "HP": 400,
       "ATK": 340,
@@ -13019,6 +13342,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "落合福嗣",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids091.png",
     "stats": {
       "HP": 550,
       "ATK": 420,
@@ -13055,6 +13379,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids092-1.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -13088,6 +13413,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids092-2.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -13121,6 +13447,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids092-3.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -13154,6 +13481,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids092-4.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -13187,6 +13515,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids092-5.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -13220,6 +13549,7 @@ window.CHARACTER_DATA = [
     "office": "グローバル・ドライバーズ・ユニオン",
     "cv": "内山夕実",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids093.png",
     "stats": {
       "HP": 400,
       "ATK": 260,
@@ -13254,6 +13584,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "宮田幸季",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids094.png",
     "stats": {
       "HP": 850,
       "ATK": 420,
@@ -13287,6 +13618,7 @@ window.CHARACTER_DATA = [
     "office": "グローバル・ドライバーズ・ユニオン",
     "cv": "林勇",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids095.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
@@ -13321,6 +13653,7 @@ window.CHARACTER_DATA = [
     "office": "グローバル・ドライバーズ・ユニオン",
     "cv": "三瓶由布子",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids096.png",
     "stats": {
       "HP": 400,
       "ATK": 420,
@@ -13355,6 +13688,7 @@ window.CHARACTER_DATA = [
     "office": "クリエイティブ・ブレイン",
     "cv": "坂泰斗",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids097.png",
     "stats": {
       "HP": 550,
       "ATK": 180,
@@ -13388,6 +13722,7 @@ window.CHARACTER_DATA = [
     "office": "クリエイティブ・ブレイン",
     "cv": "後藤光祐",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids098.png",
     "stats": {
       "HP": 700,
       "ATK": 420,
@@ -13423,6 +13758,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids099-1.png",
     "stats": {
       "HP": 550,
       "ATK": 180,
@@ -13456,6 +13792,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids099-2.png",
     "stats": {
       "HP": 550,
       "ATK": 180,
@@ -13489,6 +13826,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids099-3.png",
     "stats": {
       "HP": 550,
       "ATK": 180,
@@ -13522,6 +13860,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids099-4.png",
     "stats": {
       "HP": 550,
       "ATK": 180,
@@ -13555,6 +13894,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "－－",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids099-5.png",
     "stats": {
       "HP": 550,
       "ATK": 180,
@@ -13589,6 +13929,7 @@ window.CHARACTER_DATA = [
     "office": "インディペンデント・ヒーローズ",
     "cv": "関俊彦",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids100.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -13623,6 +13964,7 @@ window.CHARACTER_DATA = [
     "office": "グルメットファイターズ",
     "cv": "楠見尚己",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids101.png",
     "stats": {
       "HP": 1000,
       "ATK": 180,
@@ -13659,6 +14001,7 @@ window.CHARACTER_DATA = [
     "office": "アラディシア王国騎兵隊",
     "cv": "佐藤拓也",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids102.png",
     "stats": {
       "HP": 700,
       "ATK": 420,
@@ -13693,6 +14036,7 @@ window.CHARACTER_DATA = [
     "office": "地球圏連合ヒーロー派遣隊",
     "cv": "小山力也",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids103.png",
     "stats": {
       "HP": 550,
       "ATK": 420,
@@ -13728,6 +14072,7 @@ window.CHARACTER_DATA = [
     "office": "ヒーローライセンス協会",
     "cv": "加瀬康之",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids104.png",
     "stats": {
       "HP": 550,
       "ATK": 340,
@@ -13761,6 +14106,7 @@ window.CHARACTER_DATA = [
     "office": "ヒーローライセンス協会",
     "cv": "平林剛",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids105.png",
     "stats": {
       "HP": 400,
       "ATK": 180,
@@ -13794,6 +14140,7 @@ window.CHARACTER_DATA = [
     "office": "ヒーローライセンス協会",
     "cv": "小山剛志",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids106.png",
     "stats": {
       "HP": 400,
       "ATK": 420,
@@ -13829,6 +14176,7 @@ window.CHARACTER_DATA = [
     "office": "S&S Heroes",
     "cv": "山下誠一郎",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids107.png",
     "stats": {
       "HP": 550,
       "ATK": 420,
@@ -13865,6 +14213,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "山路和弘",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids108.png",
     "stats": {
       "HP": 850,
       "ATK": 180,
@@ -13900,6 +14249,7 @@ window.CHARACTER_DATA = [
     "office": "クリエイティブ・ブレイン",
     "cv": "狩野翔",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids109.png",
     "stats": {
       "HP": 700,
       "ATK": 180,
@@ -13936,6 +14286,7 @@ window.CHARACTER_DATA = [
     "office": "ギルド・イーグルアイズ",
     "cv": "中井和哉",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids110.png",
     "stats": {
       "HP": 700,
       "ATK": 420,
@@ -13970,6 +14321,7 @@ window.CHARACTER_DATA = [
     "office": "レイバーズサイト",
     "cv": "畠中祐",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids111.png",
     "stats": {
       "HP": 550,
       "ATK": 420,
@@ -14004,6 +14356,7 @@ window.CHARACTER_DATA = [
     "office": "グルメットファイターズ",
     "cv": "伊丸岡篤",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids112.png",
     "stats": {
       "HP": 850,
       "ATK": 180,
@@ -14038,6 +14391,7 @@ window.CHARACTER_DATA = [
     "office": "グルメットファイターズ",
     "cv": "くまいもとこ",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids113.png",
     "stats": {
       "HP": 850,
       "ATK": 260,
@@ -14075,6 +14429,7 @@ window.CHARACTER_DATA = [
     "office": "ブロードキャスターズ",
     "cv": "浦和希",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids114.png",
     "stats": {
       "HP": 700,
       "ATK": 420,
@@ -14112,6 +14467,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "保坂俊行",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids115.png",
     "stats": {
       "HP": 700,
       "ATK": 420,
@@ -14145,6 +14501,7 @@ window.CHARACTER_DATA = [
     "office": "ギルド・イーグルアイズ",
     "cv": "星野貴紀",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids116.png",
     "stats": {
       "HP": 550,
       "ATK": 420,
@@ -14180,6 +14537,7 @@ window.CHARACTER_DATA = [
     "office": "無所属",
     "cv": "野島健児",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids117.png",
     "stats": {
       "HP": 700,
       "ATK": 180,
@@ -14215,6 +14573,7 @@ window.CHARACTER_DATA = [
     "office": "ブロードキャスターズ",
     "cv": "高橋広樹",
     "obtain": "常設ガチャ",
+    "iconUrl": "images/sidekick/ids118.png",
     "stats": {
       "HP": 700,
       "ATK": 180,
@@ -14248,6 +14607,7 @@ window.CHARACTER_DATA = [
     "office": "ギルド・イーグルアイズ",
     "cv": "東地宏樹",
     "obtain": "イベント交換",
+    "iconUrl": "images/sidekick/ids119.png",
     "stats": {
       "HP": 550,
       "ATK": 420,
@@ -14284,6 +14644,7 @@ window.CHARACTER_DATA = [
     "office": "パラレルフライト",
     "cv": "後藤ヒロキ・岩永悠平・天野ユウ・戸板優衣・樹元オリエ",
     "obtain": "ミッション・レコードキューブ交換・フレンドポイントサーチ",
+    "iconUrl": "images/sidekick/ids999.png",
     "stats": {
       "HP": 550,
       "ATK": 260,
